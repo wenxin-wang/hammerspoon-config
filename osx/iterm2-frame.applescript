@@ -1,3 +1,3 @@
-tell application "iTerm2"
+tell application "iTerm"
   create window with default profile
 end tell
